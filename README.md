@@ -6,9 +6,13 @@
 
 ##  폴더 구조
 /market-mission
+
 ├─ main.js
+
 ├─ ProductService.js
+
 ├─ ArticleService.js
+
 └─ README.md
 
 
